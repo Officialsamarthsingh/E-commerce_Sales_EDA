@@ -127,6 +127,7 @@ These features helped in:
 - City-wise Revenue Analysis
 - Customer Spending Analysis
 - Quantity Distribution Boxplots
+- Analysing correlation using Heat map
   
 ## Business Recommendations
    - Increase marketing during peak sales months
