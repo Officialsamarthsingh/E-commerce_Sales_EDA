@@ -138,3 +138,21 @@ These features helped in:
 
 ## Conclusion
    This project demonstrates how Exploratory Data Analysis can help businesses identify revenue opportunities, understand customer behavior, and improve operational decision-making using data-driven insights.
+
+# How to Run the Project
+
+1. Clone the repository
+2. Install required libraries:
+
+pip install pandas numpy matplotlib seaborn
+
+3. Open the Jupyter Notebook
+4. Run all cells sequentially
+
+# Project Structure
+
+├── Notebook/
+├── Notebook_in_PDF/
+├── Dataset/
+├── README.md 
+
