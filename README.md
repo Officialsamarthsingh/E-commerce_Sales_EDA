@@ -150,7 +150,9 @@ pip install pandas numpy matplotlib seaborn
 4. Run all cells sequentially
 
 # Project Structure
-
+├── Dashboard/
+              - E-commerce Sales Dashboard.pdf
+              - Power Bi E-commerce Sales Dashboard.pbit
 ├── Notebook/
 ├── Notebook_in_PDF/
 ├── Dataset/
